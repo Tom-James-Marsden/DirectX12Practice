@@ -1,1 +1,1 @@
-NVIDIA GeForce RTX 2070 SUPER
+Intel(R) Iris(R) Xe Graphics
